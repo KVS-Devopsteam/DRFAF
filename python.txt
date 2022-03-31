@@ -1,5 +1,0 @@
-Edited in remote repository
-Its updated in development branch
-Its updated again in master
-This is python name with text to check
-
